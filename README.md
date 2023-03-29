@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyeonKwak&show_icons=true&theme=prussian)
+<br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <!--
 **JinhyeonKwak/JinhyeonKwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
