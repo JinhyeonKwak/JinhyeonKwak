@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JinhyeonKwak%20&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=JinhyeonKwak%20&fontSize=30)
+-->
 ### 👋 곽진현 (JinhyeonKwak) 👋
 ---
 *Java*와 *Spring*을 다루는 데에 가장 자신이 있습니다.
@@ -9,9 +10,6 @@ Spring을 활용한 다수의 프로젝트를 진행하였고, Java Swing을 이
 
 
 <br>
-
-## 어떤 개발자? 
-어떠한 문제라도 두려움 없이 부딪힐 수 있는 개발자가 되기 위해 노력하고 있습니다.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyeonKwak&show_icons=true&theme=prussian)
 <br>
@@ -20,8 +18,8 @@ Spring을 활용한 다수의 프로젝트를 진행하였고, Java Swing을 이
 <br>
 <br>
 
-##  ✨ 기술 스택
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+## 🛠️ 기술 스택
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
