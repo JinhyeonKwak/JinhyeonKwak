@@ -1,4 +1,4 @@
-### 곽진현/JinhyeonKwak 👋
+### 👋 곽진현 (JinhyeonKwak) 👋
 ---
 *Java*와 *Spring*을 다루는 데에 가장 자신이 있습니다.
 
@@ -10,6 +10,8 @@ Spring을 활용한 다수의 프로젝트를 진행하였고, Java Swing을 이
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgus555)](https://solved.ac/wlsgus555/)
 <br>
+
+##  ✨ 기술 스택
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
