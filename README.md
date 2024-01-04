@@ -24,3 +24,6 @@
   <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
   <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
 </p>
+
+## AWS 인스턴스 유형, 패밀리 등에 따른 성능 측정
+![image](https://github.com/JinhyeonKwak/JinhyeonKwak/assets/93817551/fe0cde9a-872e-4c4f-affb-8452fd687768)  
