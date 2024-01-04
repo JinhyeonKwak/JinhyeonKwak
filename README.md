@@ -27,4 +27,5 @@
 
 ## AWS 인스턴스 유형, 패밀리 등에 따른 성능 측정
 ![image](https://github.com/JinhyeonKwak/JinhyeonKwak/assets/93817551/f126b5ab-a29b-4e1e-b18a-a484dac86ef4)
-![image](https://github.com/JinhyeonKwak/JinhyeonKwak/assets/93817551/fe0cde9a-872e-4c4f-affb-8452fd687768)  
+![image](https://github.com/JinhyeonKwak/JinhyeonKwak/assets/93817551/af432751-7da0-4b45-9e66-88488a8ea55a)
+  
