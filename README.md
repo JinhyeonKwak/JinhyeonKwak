@@ -72,7 +72,5 @@ for ((i = 1; i <= NUM_CONCURRENT_REQUESTS; i++)); do
     fi
 done
 ```
-![image](https://github.com/JinhyeonKwak/JinhyeonKwak/assets/93817551/b40fe208-fa52-4a84-b7b0-4ef1288d7b6e)
-![image](https://github.com/JinhyeonKwak/JinhyeonKwak/assets/93817551/b2cd0c15-59a9-4752-b502-58006b138058)
-
-  
+![image](https://github.com/JinhyeonKwak/JinhyeonKwak/assets/93817551/a20db6a1-ccf2-4855-91ce-418d1ddc6437)
+![image](https://github.com/JinhyeonKwak/JinhyeonKwak/assets/93817551/4145c3e0-de9f-47ea-90fb-8ccf514bdbfb)
