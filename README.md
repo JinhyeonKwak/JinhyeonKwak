@@ -13,7 +13,7 @@
 
 ## 📂 프로젝트 경험
 - [빌려방: 부동산 및 대출 추천 플랫폼](https://github.com/PDA-BillyBang) (**2024.05.20 - 2024.06.25**)
-- [ReSearch: 증권사 리포트 분석 서비스](https://github.com/PDA-stockX/research-server) (**2024.03.04 - 2023.04.01**)
+- [ReSearch: 증권사 리포트 분석 서비스](https://github.com/PDA-stockX) (**2024.03.04 - 2023.04.01**)
 - [What's Your ETF: 나만의 ETF 만들기](https://github.com/What-s-Your-ETF/app-server) (**2024.02.13 - 2023.02.29**)
 - [TrackMe: 자전거 주행기록 공유 플랫폼](https://github.com/orgs/track-me-dev/repositories) (**2023.08.29 - 2023.09.20**)
 - [What A Chad: 자기계발 도우미 웹 서비스](https://github.com/whatachad) (**2023.04.01 - 2023.05.04**)
