@@ -12,6 +12,7 @@
 <br>
 
 ## 📂 프로젝트 경험
+- [SELLECT: e-commerce 프로젝트] (https://github.com/2025whynot/sellect_server) (**2025.02.03 - 2025.04.02**)
 - [빌려방: 부동산 및 대출 추천 플랫폼](https://github.com/PDA-BillyBang) (**2024.05.20 - 2024.06.25**)
 - [ReSearch: 증권사 리포트 분석 서비스](https://github.com/PDA-stockX) (**2024.03.04 - 2024.04.01**)
 - [JJAPGUN: 오락실 비행기 게임](https://github.com/PDA-JJAPGUN) (**2024.04.11 - 2024.04.16**)
